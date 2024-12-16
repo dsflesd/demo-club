@@ -8,4 +8,4 @@ print("my name is" +str(x))
 
 
 Fahrenheit=input("What is the Fahrenheit?")
-print(input(Fahrenheit*int(9/5)+int(32))
+print(float(Fahrenheit*int(9/5)+int(32)))
